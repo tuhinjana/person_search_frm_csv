@@ -7,5 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Tuhin S Jana",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "express" : "^4.16.4",
+    "csv" : "^0.3.7",
+    "redis" : "^2.8.0"
+  }
 }
