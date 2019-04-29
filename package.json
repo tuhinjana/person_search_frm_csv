@@ -1,0 +1,11 @@
+{
+  "name": "csv-search",
+  "version": "1.0.0",
+  "description": "search nearest person from csv  file using redis",
+  "main": "csv-search.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuhin S Jana",
+  "license": "ISC"
+}
